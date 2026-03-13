@@ -1,31 +1,134 @@
 ---
-title: "Simon's ML Portfolio"
+title: " "
+page-layout: full
+toc: false
 ---
 
-Welcome to my machine learning portfolio. This site showcases projects and learning notebooks covering predictive modelling, feature engineering, and applied ML techniques.
+```{=html}
+<style>
+.hero {
+  padding: 80px 0 60px 0;
+  text-align: center;
+}
+.hero h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 0.3em;
+}
+.hero .tagline {
+  font-size: 1.25rem;
+  color: #6c757d;
+  margin-bottom: 1.5em;
+}
+.hero .links a {
+  display: inline-block;
+  margin: 0 8px;
+  padding: 10px 22px;
+  border-radius: 6px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: opacity 0.2s;
+}
+.hero .links a:hover { opacity: 0.8; }
+.btn-primary { background: #0d6efd; color: #fff !important; }
+.btn-outline { border: 1.5px solid #0d6efd; color: #0d6efd !important; }
 
-[![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simoncan10/ML/main)
+.section { padding: 50px 0 30px 0; }
+.section h2 { font-size: 1.8rem; font-weight: 600; margin-bottom: 0.8em; border-bottom: 2px solid #e9ecef; padding-bottom: 0.4em; }
 
-> **Running notebooks online:** Notebooks download the Home Credit data automatically from Kaggle on first run. You'll need to set two environment variables — `KAGGLE_USERNAME` and `KAGGLE_KEY` — which you can get from your [Kaggle account settings](https://www.kaggle.com/settings). On Binder, set these under *File → New → Terminal* before running: `export KAGGLE_USERNAME=... && export KAGGLE_KEY=...`
+.skills-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 1em;
+}
+.skill-tag {
+  background: #f0f4ff;
+  color: #0d6efd;
+  border-radius: 20px;
+  padding: 5px 16px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.project-card {
+  border: 1px solid #e9ecef;
+  border-radius: 10px;
+  padding: 24px;
+  margin-bottom: 16px;
+  transition: box-shadow 0.2s;
+}
+.project-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.08); }
+.project-card h3 { margin-top: 0; font-size: 1.15rem; }
+.project-card p { color: #6c757d; margin-bottom: 0.8em; font-size: 0.95rem; }
+.project-card a { font-size: 0.9rem; font-weight: 500; }
+</style>
+
+<div class="hero">
+  <h1>Simon Feinermann</h1>
+  <div class="tagline">Finance & Management Student · Machine Learning Enthusiast · Frankfurt</div>
+  <div class="links">
+    <a href="mailto:simon-feinermann@gmx.de" class="btn-primary">Get in touch</a>
+    <a href="https://www.linkedin.com/in/simon-feinermann" target="_blank" class="btn-outline">LinkedIn</a>
+    <a href="https://github.com/simoncan10" target="_blank" class="btn-outline">GitHub</a>
+  </div>
+</div>
+```
+
+## About
+
+I'm a student at the **Frankfurt School of Finance & Management**, self-teaching machine learning and computational statistics alongside my degree. My goal is to bridge the gap between quantitative finance and modern data science — building skills that are practical, employer-ready, and eventually the foundation for my own venture.
+
+I'm currently looking for **internships** in data science, quantitative analysis, or ML engineering where I can contribute real work and grow fast.
+
+---
+
+## Skills
+
+```{=html}
+<div class="skills-grid">
+  <span class="skill-tag">Python</span>
+  <span class="skill-tag">scikit-learn</span>
+  <span class="skill-tag">pandas</span>
+  <span class="skill-tag">NumPy</span>
+  <span class="skill-tag">matplotlib</span>
+  <span class="skill-tag">PyTorch</span>
+  <span class="skill-tag">Feature Engineering</span>
+  <span class="skill-tag">Classification Models</span>
+  <span class="skill-tag">Pipelines</span>
+  <span class="skill-tag">Statistics</span>
+  <span class="skill-tag">Finance</span>
+  <span class="skill-tag">Git</span>
+</div>
+```
+
+---
 
 ## Projects
 
-### Kaggle — Home Credit Default Risk
+```{=html}
+<div class="project-card">
+  <h3>Home Credit Default Risk</h3>
+  <p>End-to-end machine learning project on the Kaggle Home Credit competition — predicting loan default probability from complex real-world financial data. Covers EDA, custom sklearn pipelines, feature engineering, and random forest modelling.</p>
+  <a href="notebooks/kaggle/home_credit_default_risk.html">View analysis →</a> &nbsp;
+  <a href="notebooks/kaggle/home_credit_pipeline.html">View pipeline →</a>
+</div>
 
-A series of notebooks tackling the [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk) competition, which involves predicting loan default probability from complex real-world financial data.
+<div class="project-card">
+  <h3>Hands-On Machine Learning — Study Notebooks</h3>
+  <p>Working through Aurélien Géron's <em>Hands-On Machine Learning</em>, implementing end-to-end ML workflows and classification techniques from scratch.</p>
+  <a href="notebooks/Hands-On Machine Learning A.G/Chapter 2/02_end_to_end_machine_learning_project.html">Ch.2 End-to-End ML →</a> &nbsp;
+  <a href="notebooks/Hands-On Machine Learning A.G/Chapter 3/03_classification.html">Ch.3 Classification →</a>
+</div>
+```
 
-| Notebook | Description |
-|---|---|
-| [Risk Analysis](notebooks/kaggle/home_credit_default_risk.ipynb) | Exploratory data analysis and baseline modelling |
-| [Pipeline](notebooks/kaggle/home_credit_pipeline.ipynb) | Full sklearn pipeline with custom transformers |
-| [Random Forest](notebooks/kaggle/home_credit_rf.ipynb) | Random forest model and evaluation |
-| [Univariate Methods](notebooks/kaggle/hcdf uni methods.ipynb) | Univariate feature selection and analysis |
+---
 
-## Learning
+## Contact
 
-Notebooks from *Hands-On Machine Learning* by Aurélien Géron.
+Open to internship opportunities, collaborations, or just a conversation about ML and finance.
 
-| Notebook | Description |
-|---|---|
-| [Ch.2 End-to-End ML](notebooks/Hands-On Machine Learning A.G/Chapter 2/02_end_to_end_machine_learning_project.ipynb) | Full ML workflow on the California Housing dataset |
-| [Ch.3 Classification](notebooks/Hands-On Machine Learning A.G/Chapter 3/03_classification.ipynb) | Binary and multi-class classification techniques |
+- **Email:** [simon-feinermann@gmx.de](mailto:simon-feinermann@gmx.de)
+- **LinkedIn:** [simon-feinermann](https://www.linkedin.com/in/simon-feinermann)
+- **GitHub:** [simoncan10](https://github.com/simoncan10)
+- **Location:** Bad Homburg / Frankfurt, Germany
