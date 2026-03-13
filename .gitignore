@@ -1,0 +1,22 @@
+# Data — large files, not for git
+data/
+
+# Python environment
+env/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Editor / tool config
+.vscode/
+.claude/
+
+# Outputs (generated files)
+outputs/
+
+# Misc
+*.csv
+*.parquet
+*.pkl
+*.h5
