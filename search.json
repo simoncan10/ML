@@ -193,21 +193,21 @@
     "href": "index.html",
     "title": "Simon Feinermann",
     "section": "",
-    "text": "Finance & Management Student · Machine Learning Enthusiast · Frankfurt\n  \n    Get in touch\n    LinkedIn\n    GitHub"
+    "text": "BSc Computational Business Analytics · Frankfurt School of Finance & Management · Frankfurt\n  \n    Get in touch\n    LinkedIn\n    GitHub"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Simon Feinermann",
     "section": "About",
-    "text": "About\nI’m a student at the Frankfurt School of Finance & Management, self-teaching machine learning and computational statistics alongside my degree. My goal is to bridge the gap between quantitative finance and modern data science — building skills that are practical, employer-ready, and eventually the foundation for my own venture.\nI’m currently looking for internships in data science, quantitative analysis, or ML engineering where I can contribute real work and grow fast."
+    "text": "About\nI’m a BSc Computational Business Analytics student at the Frankfurt School of Finance & Management — a program combining rigorous data science with deep business and finance expertise.\nMy coursework spans machine learning, statistics, SQL, and databases on the technical side, alongside corporate finance, derivatives (Futures & Options), accounting, business valuation, and operations management on the business side. Outside of my degree I self-study ML engineering and apply what I learn to real-world datasets.\nMy goal is to become the kind of analyst who can both build the model and understand what it means for the business — and eventually turn that expertise into my own venture.\nI’m currently looking for internships in data science, quantitative finance, or ML engineering."
   },
   {
     "objectID": "index.html#skills",
     "href": "index.html#skills",
     "title": "Simon Feinermann",
     "section": "Skills",
-    "text": "Skills\n\n  Python\n  scikit-learn\n  pandas\n  NumPy\n  matplotlib\n  PyTorch\n  Feature Engineering\n  Classification Models\n  Pipelines\n  Statistics\n  Finance\n  Git"
+    "text": "Skills\n\n  Python\n  scikit-learn\n  pandas\n  NumPy\n  PyTorch\n  SQL\n  Databases\n  Feature Engineering\n  Machine Learning\n  Statistics\n  Git\n  Corporate Finance\n  Business Valuation\n  Futures & Options\n  Accounting\n  Operations Management"
   },
   {
     "objectID": "index.html#projects",
