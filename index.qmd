@@ -1,0 +1,31 @@
+---
+title: "Simon's ML Portfolio"
+---
+
+Welcome to my machine learning portfolio. This site showcases projects and learning notebooks covering predictive modelling, feature engineering, and applied ML techniques.
+
+[![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simoncan10/ML/main)
+
+> **Running notebooks online:** Notebooks download the Home Credit data automatically from Kaggle on first run. You'll need to set two environment variables — `KAGGLE_USERNAME` and `KAGGLE_KEY` — which you can get from your [Kaggle account settings](https://www.kaggle.com/settings). On Binder, set these under *File → New → Terminal* before running: `export KAGGLE_USERNAME=... && export KAGGLE_KEY=...`
+
+## Projects
+
+### Kaggle — Home Credit Default Risk
+
+A series of notebooks tackling the [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk) competition, which involves predicting loan default probability from complex real-world financial data.
+
+| Notebook | Description |
+|---|---|
+| [Risk Analysis](notebooks/kaggle/home_credit_default_risk.ipynb) | Exploratory data analysis and baseline modelling |
+| [Pipeline](notebooks/kaggle/home_credit_pipeline.ipynb) | Full sklearn pipeline with custom transformers |
+| [Random Forest](notebooks/kaggle/home_credit_rf.ipynb) | Random forest model and evaluation |
+| [Univariate Methods](notebooks/kaggle/hcdf uni methods.ipynb) | Univariate feature selection and analysis |
+
+## Learning
+
+Notebooks from *Hands-On Machine Learning* by Aurélien Géron.
+
+| Notebook | Description |
+|---|---|
+| [Ch.2 End-to-End ML](notebooks/Hands-On Machine Learning A.G/Chapter 2/02_end_to_end_machine_learning_project.ipynb) | Full ML workflow on the California Housing dataset |
+| [Ch.3 Classification](notebooks/Hands-On Machine Learning A.G/Chapter 3/03_classification.ipynb) | Binary and multi-class classification techniques |
