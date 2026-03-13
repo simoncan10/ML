@@ -66,7 +66,7 @@ toc: false
 
 <div class="hero">
   <h1>Simon Feinermann</h1>
-  <div class="tagline">Finance & Management Student · Machine Learning Enthusiast · Frankfurt</div>
+  <div class="tagline">BSc Computational Business Analytics · Frankfurt School of Finance & Management · Frankfurt</div>
   <div class="links">
     <a href="mailto:simon-feinermann@gmx.de" class="btn-primary">Get in touch</a>
     <a href="https://www.linkedin.com/in/simon-feinermann" target="_blank" class="btn-outline">LinkedIn</a>
@@ -77,9 +77,13 @@ toc: false
 
 ## About
 
-I'm a student at the **Frankfurt School of Finance & Management**, self-teaching machine learning and computational statistics alongside my degree. My goal is to bridge the gap between quantitative finance and modern data science — building skills that are practical, employer-ready, and eventually the foundation for my own venture.
+I'm a **BSc Computational Business Analytics** student at the [Frankfurt School of Finance & Management](https://www.frankfurt-school.de/en/home/study/bachelor/bachelor-science/bachelor-computational-business-analytics) — a program combining rigorous data science with deep business and finance expertise.
 
-I'm currently looking for **internships** in data science, quantitative analysis, or ML engineering where I can contribute real work and grow fast.
+My coursework spans machine learning, statistics, SQL, and databases on the technical side, alongside corporate finance, derivatives (Futures & Options), accounting, business valuation, and operations management on the business side. Outside of my degree I self-study ML engineering and apply what I learn to real-world datasets.
+
+My goal is to become the kind of analyst who can both build the model and understand what it means for the business — and eventually turn that expertise into my own venture.
+
+I'm currently looking for **internships** in data science, quantitative finance, or ML engineering.
 
 ---
 
@@ -91,14 +95,18 @@ I'm currently looking for **internships** in data science, quantitative analysis
   <span class="skill-tag">scikit-learn</span>
   <span class="skill-tag">pandas</span>
   <span class="skill-tag">NumPy</span>
-  <span class="skill-tag">matplotlib</span>
   <span class="skill-tag">PyTorch</span>
+  <span class="skill-tag">SQL</span>
+  <span class="skill-tag">Databases</span>
   <span class="skill-tag">Feature Engineering</span>
-  <span class="skill-tag">Classification Models</span>
-  <span class="skill-tag">Pipelines</span>
+  <span class="skill-tag">Machine Learning</span>
   <span class="skill-tag">Statistics</span>
-  <span class="skill-tag">Finance</span>
   <span class="skill-tag">Git</span>
+  <span class="skill-tag">Corporate Finance</span>
+  <span class="skill-tag">Business Valuation</span>
+  <span class="skill-tag">Futures & Options</span>
+  <span class="skill-tag">Accounting</span>
+  <span class="skill-tag">Operations Management</span>
 </div>
 ```
 
