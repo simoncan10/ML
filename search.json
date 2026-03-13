@@ -191,23 +191,37 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Simon’s ML Portfolio",
+    "title": "Simon Feinermann",
     "section": "",
-    "text": "Welcome to my machine learning portfolio. This site showcases projects and learning notebooks covering predictive modelling, feature engineering, and applied ML techniques."
+    "text": "Finance & Management Student · Machine Learning Enthusiast · Frankfurt\n  \n    Get in touch\n    LinkedIn\n    GitHub"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Simon Feinermann",
+    "section": "About",
+    "text": "About\nI’m a student at the Frankfurt School of Finance & Management, self-teaching machine learning and computational statistics alongside my degree. My goal is to bridge the gap between quantitative finance and modern data science — building skills that are practical, employer-ready, and eventually the foundation for my own venture.\nI’m currently looking for internships in data science, quantitative analysis, or ML engineering where I can contribute real work and grow fast."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Simon Feinermann",
+    "section": "Skills",
+    "text": "Skills\n\n  Python\n  scikit-learn\n  pandas\n  NumPy\n  matplotlib\n  PyTorch\n  Feature Engineering\n  Classification Models\n  Pipelines\n  Statistics\n  Finance\n  Git"
   },
   {
     "objectID": "index.html#projects",
     "href": "index.html#projects",
-    "title": "Simon’s ML Portfolio",
+    "title": "Simon Feinermann",
     "section": "Projects",
-    "text": "Projects\n\nKaggle — Home Credit Default Risk\nA series of notebooks tackling the Home Credit Default Risk competition, which involves predicting loan default probability from complex real-world financial data.\n\n\n\nNotebook\nDescription\n\n\n\n\nRisk Analysis\nExploratory data analysis and baseline modelling\n\n\nPipeline\nFull sklearn pipeline with custom transformers\n\n\nRandom Forest\nRandom forest model and evaluation\n\n\nUnivariate Methods\nUnivariate feature selection and analysis"
+    "text": "Projects\n\n  Home Credit Default Risk\n  End-to-end machine learning project on the Kaggle Home Credit competition — predicting loan default probability from complex real-world financial data. Covers EDA, custom sklearn pipelines, feature engineering, and random forest modelling.\n  View analysis →  \n  View pipeline →\n\n\n\n  Hands-On Machine Learning — Study Notebooks\n  Working through Aurélien Géron's Hands-On Machine Learning, implementing end-to-end ML workflows and classification techniques from scratch.\n  Ch.2 End-to-End ML →  \n  Ch.3 Classification →"
   },
   {
-    "objectID": "index.html#learning",
-    "href": "index.html#learning",
-    "title": "Simon’s ML Portfolio",
-    "section": "Learning",
-    "text": "Learning\nNotebooks from Hands-On Machine Learning by Aurélien Géron.\n\n\n\nNotebook\nDescription\n\n\n\n\nCh.2 End-to-End ML\nFull ML workflow on the California Housing dataset\n\n\nCh.3 Classification\nBinary and multi-class classification techniques"
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Simon Feinermann",
+    "section": "Contact",
+    "text": "Contact\nOpen to internship opportunities, collaborations, or just a conversation about ML and finance.\n\nEmail: simon-feinermann@gmx.de\nLinkedIn: simon-feinermann\nGitHub: simoncan10\nLocation: Bad Homburg / Frankfurt, Germany"
   },
   {
     "objectID": "notebooks/Hands-On Machine Learning A.G/Chapter 3/03_classification.html",
