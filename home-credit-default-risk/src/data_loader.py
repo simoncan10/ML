@@ -20,13 +20,14 @@ def get_repo_root() -> Path:
     for path in [Path.cwd(), *Path.cwd().parents]:
         if (path / ".git").exists() or (path / "_quarto.yml").exists():
             return path
-    # Fallback: this file lives at <root>/src/data_loader.py
-    return Path(__file__).resolve().parent.parent
+    # Fallback: this file lives at <root>/home-credit-default-risk/src/data_loader.py
+    return Path(__file__).resolve().parent.parent.parent
 
 
-REPO_ROOT    = get_repo_root()
-RAW_DIR      = REPO_ROOT / "data" / "raw"      / "Home Credit Default Risk"
-PROCESSED_DIR = REPO_ROOT / "data" / "processed" / "Home Credit Default Risk"
+REPO_ROOT     = get_repo_root()
+PROJECT_DIR   = REPO_ROOT / "home-credit-default-risk"
+RAW_DIR       = PROJECT_DIR / "data" / "raw"
+PROCESSED_DIR = PROJECT_DIR / "data" / "processed"
 
 COMPETITION = "home-credit-default-risk"
 
