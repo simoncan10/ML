@@ -118,15 +118,15 @@ I'm currently looking for **internships** in data science, quantitative finance,
 <div class="project-card">
   <h3>Home Credit Default Risk</h3>
   <p>End-to-end machine learning project on the Kaggle Home Credit competition — predicting loan default probability from complex real-world financial data. Covers EDA, custom sklearn pipelines, feature engineering, and random forest modelling.</p>
-  <a href="notebooks/kaggle/home_credit_default_risk.html">View analysis →</a> &nbsp;
-  <a href="notebooks/kaggle/home_credit_pipeline.html">View pipeline →</a>
+  <a href="home-credit-default-risk/notebooks/home_credit_default_risk.html">View analysis →</a> &nbsp;
+  <a href="home-credit-default-risk/notebooks/home_credit_pipeline.html">View pipeline →</a>
 </div>
 
 <div class="project-card">
   <h3>Hands-On Machine Learning — Study Notebooks</h3>
   <p>Working through Aurélien Géron's <em>Hands-On Machine Learning</em>, implementing end-to-end ML workflows and classification techniques from scratch.</p>
-  <a href="notebooks/Hands-On Machine Learning A.G/Chapter 2/02_end_to_end_machine_learning_project.html">Ch.2 End-to-End ML →</a> &nbsp;
-  <a href="notebooks/Hands-On Machine Learning A.G/Chapter 3/03_classification.html">Ch.3 Classification →</a>
+  <a href="Hands-On Machine Learning A.G/Chapter 2/02_end_to_end_machine_learning_project.html">Ch.2 End-to-End ML →</a> &nbsp;
+  <a href="Hands-On Machine Learning A.G/Chapter 3/03_classification.html">Ch.3 Classification →</a>
 </div>
 ```
 

@@ -11,19 +11,19 @@ website:
       - text: Kaggle Projects
         menu:
           - text: "Home Credit Risk Analysis"
-            href: notebooks/kaggle/home_credit_default_risk.ipynb
+            href: home-credit-default-risk/notebooks/home_credit_default_risk.ipynb
           - text: "Home Credit Pipeline"
-            href: notebooks/kaggle/home_credit_pipeline.ipynb
+            href: home-credit-default-risk/notebooks/home_credit_pipeline.ipynb
           - text: "Home Credit Random Forest"
-            href: notebooks/kaggle/home_credit_rf.ipynb
+            href: home-credit-default-risk/notebooks/home_credit_rf.ipynb
           - text: "Univariate Methods"
-            href: "notebooks/kaggle/hcdf uni methods.ipynb"
+            href: "home-credit-default-risk/notebooks/hcdf uni methods.ipynb"
       - text: Learning
         menu:
           - text: "Ch.2 End-to-End ML Project"
-            href: "notebooks/Hands-On Machine Learning A.G/Chapter 2/02_end_to_end_machine_learning_project.ipynb"
+            href: "Hands-On Machine Learning A.G/Chapter 2/02_end_to_end_machine_learning_project.ipynb"
           - text: "Ch.3 Classification"
-            href: "notebooks/Hands-On Machine Learning A.G/Chapter 3/03_classification.ipynb"
+            href: "Hands-On Machine Learning A.G/Chapter 3/03_classification.ipynb"
     right:
       - icon: github
         href: https://github.com/simoncan10
